@@ -1,19 +1,26 @@
 CLI: revanced-cli-2.17.0-all.jar  
-Integrations: app-release-unsigned-v0.82.0.apk  
-Patches: revanced-patches-2.138.0.jar  
+Integrations: app-release-unsigned-v0.84.0.apk  
+Patches: revanced-patches-2.142.0.jar  
 
-### [2.138.0](https://github.com/revanced/revanced-patches/compare/v2.137.0...v2.138.0) (2022-12-05)
+### [2.142.0](https://github.com/revanced/revanced-patches/compare/v2.141.0...v2.142.0) (2022-12-11)
+
+
 ### Features
-* **youtube/debugging:** print stack traces ([9cea382](https://github.com/revanced/revanced-patches/commit/9cea382750456434d0547351ee7d4013eac9de9c))
+
+*  patch ([#1236](https://github.com/revanced/revanced-patches/issues/1236)) ([11b59f7](https://github.com/revanced/revanced-patches/commit/11b59f767c94514d49a84593618ff9d2aace2636))
+* **twitch/block-embedded-ads:**  patch ([#1166](https://github.com/revanced/revanced-patches/issues/1166)) ([018606e](https://github.com/revanced/revanced-patches/commit/018606e9832c43836b6b8f4fbd623adb8876d162))
+
+
+
 
   
 YouTube: 17.45.36  
-Music (arm64-v8a): 5.31.50  
-Music (arm-v7a): 5.31.50  
-Twitter: 9.65.6-release.0  
-Reddit: 2022.44.0  
-TikTok: 27.2.4  
-Spotify: 8.7.88.496  
+Music (arm64-v8a): 5.34.51  
+Music (arm-v7a): 5.34.51  
+Twitter: 9.65.7-release.0  
+Reddit: 2022.45.0  
+TikTok: 27.3.20  
+Spotify: 8.7.90.544  
 WarnWetter: 4.0.2  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
